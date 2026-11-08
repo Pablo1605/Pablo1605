@@ -25,6 +25,7 @@ My portfolio: https://pablo1605.github.io/Portafolio/
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green)
 ![Spring Security](https://img.shields.io/badge/-Spring_Security-ffffff?style=flat&logo=Spring-Security&logoColor=6DB33F)
+![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
 ### Databases
