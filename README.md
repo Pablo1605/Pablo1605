@@ -27,6 +27,7 @@ My portfolio: https://pablo1605.github.io/Portafolio/
 ![Spring Security](https://img.shields.io/badge/-Spring_Security-ffffff?style=flat&logo=Spring-Security&logoColor=6DB33F)
 ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![ExpressJS](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
